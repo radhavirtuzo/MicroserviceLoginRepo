@@ -1,0 +1,8 @@
+Flask==2.3.3
+Flask-RESTful==0.3.10
+PyJWT==2.7.0
+cryptography==39.0.1
+flask_sqlalchemy==3.0.0
+pydantic
+pyodbc==4.0.32
+Flask-Cors
